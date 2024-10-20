@@ -14,7 +14,7 @@
 - [Tailwind CSS](https://tailwindcss.com/) - Styling and UI
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [Vite](https://vitejs.dev/) - Build tool
-- [Netlify](https://www.netlify.com/) - Hosting and Deployment
+- [Netlify](https://vercel.com/) - Hosting and Deployment
 
 ## How to run locally 💻
 
